@@ -1,6 +1,7 @@
 # Codewars Example Solutions
 A repo for example solutions to codewars problems given to my student devs.
-Here's a list of problems given so far:
+
+### Problems given so far:
 - [String repeat](https://www.codewars.com/kata/string-repeat/javascript)
 - [Switcheroo](https://www.codewars.com/kata/switcheroo/javascript)
 - [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers)
