@@ -1,0 +1,1 @@
+This solution uses the [`repeat`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat) method and assumes `str` is a string and `n` is a number.
