@@ -16,7 +16,6 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
 
 ### To-do:
-- [Array.diff](https://www.codewars.com/kata/array-dot-diff/javascript)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow/javascript)
 - [Leap Years](https://www.codewars.com/kata/leap-years)
 - [Small enough?](https://www.codewars.com/kata/small-enough-beginner/javascript)
