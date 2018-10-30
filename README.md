@@ -4,7 +4,7 @@ A repo for example solutions to codewars problems given to my student devs.
 ### Problems given so far:
 - [String repeat](https://www.codewars.com/kata/string-repeat/javascript)
 - [Switcheroo](https://www.codewars.com/kata/switcheroo/javascript)
-- [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers)
+- [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers/javascript)
 - [Is he gonna survive?](https://www.codewars.com/kata/is-he-gonna-survive/javascript)
 - [Array.diff](https://www.codewars.com/kata/array-dot-diff/javascript)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow/javascript)
@@ -16,7 +16,6 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
 
 ### To-do:
-- [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers)
 - [Is he gonna survive?](https://www.codewars.com/kata/is-he-gonna-survive/javascript)
 - [Array.diff](https://www.codewars.com/kata/array-dot-diff/javascript)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow/javascript)
