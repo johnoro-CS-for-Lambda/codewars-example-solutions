@@ -1,0 +1,4 @@
+# Explanation:
+This solution uses the [`replace`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) method. This can take a [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)(A.K.A. a regexp) as the first argument, and also take a function, which will be applied to all matches, as the second argument. 
+
+For the regexp, we simply match anything that's 'a' or 'b'. We make sure it matches everything that fits that criteria with the global flag, `g`. The callback isn't too hard to follow, but the [ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) is just a shorthand for an `if else`.
