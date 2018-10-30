@@ -1,0 +1,2 @@
+# Explanation:
+The [`every`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every) method returns true if every element of an array meets a condition (or false if they not all meet that condition).
