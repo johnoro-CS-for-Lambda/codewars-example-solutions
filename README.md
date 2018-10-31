@@ -16,5 +16,4 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
 
 ### To-do:
-- [Rotate for a Max](https://www.codewars.com/kata/rotate-for-a-max/javascript)
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
