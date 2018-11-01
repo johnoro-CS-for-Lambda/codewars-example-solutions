@@ -16,4 +16,4 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
 
 ### To-do:
-- [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
+- None!
