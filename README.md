@@ -15,7 +15,11 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Rotate for a Max](https://www.codewars.com/kata/rotate-for-a-max/javascript)
 - [Closest and Smallest](https://www.codewars.com/kata/closest-and-smallest/javascript)
 - [Directions Reduction](https://www.codewars.com/kata/directions-reduction/javascript)
+- [Resistor Color Codes](https://www.codewars.com/kata/resistor-color-codes/javascript)
+- [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
+- [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
 
 ### To-do:
 - [Resistor Color Codes](https://www.codewars.com/kata/resistor-color-codes/javascript)
 - [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
+- [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
