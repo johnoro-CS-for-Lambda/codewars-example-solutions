@@ -18,8 +18,10 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Resistor Color Codes](https://www.codewars.com/kata/resistor-color-codes/javascript)
 - [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
+- [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
 
 ### To-do:
 - [Resistor Color Codes](https://www.codewars.com/kata/resistor-color-codes/javascript)
 - [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
+- [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
