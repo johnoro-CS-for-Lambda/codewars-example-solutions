@@ -22,4 +22,3 @@ A repo for example solutions to codewars problems given to my student devs.
 
 ### To-do:
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
-- [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
