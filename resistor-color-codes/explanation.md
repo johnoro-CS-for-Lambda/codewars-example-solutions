@@ -1,0 +1,8 @@
+# Explanation:
+1. Map the colors to their respective values using an object.
+2. Use [array destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Array_destructuring) to pull all of the values off of our new array of band values. If we weren't given a tolerance, then we use the [default value](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Default_values) of 20.
+3. Calculate ohms. Note use of the [exponentiation operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Exponentiation_(**)), and how we're fine to multiply without explicitly coercing our string into a number. This is because JavaScript does this for us since strings have no `*` operator (multiplying by non-number strings results in `NaN`)!
+4. Check for large ohms (where we want to format them a bit differently). These checks rely heavily on the `calcDecStr` helper function, which uses [ternary operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator). This is used just to see if a number will have decimals based on these conditions:
+    * only one digit before exponent of three mark (i.e., 1,000, 6,234, or 1,000,000; NOT 10,000 or 150,000)
+    * second number greater than 0 (i.e, the 2 in 6,234 from above)
+5. Return our formatted string using a [template literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)!
