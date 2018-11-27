@@ -19,6 +19,8 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
 - [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
+- [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
 
 ### To-do:
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
+- [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
