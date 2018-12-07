@@ -21,8 +21,10 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
 - [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
 - [Merged Objects](https://www.codewars.com/kata/596cf5b0e1665a2d02000007/javascript)
+- [ES5 Generators i](https://www.codewars.com/kata/es5-generators-i/javascript)
 
 ### To-do:
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
 - [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
 - [Merged Objects](https://www.codewars.com/kata/596cf5b0e1665a2d02000007/javascript)
+- [ES5 Generators i](https://www.codewars.com/kata/es5-generators-i/javascript)
