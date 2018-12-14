@@ -27,7 +27,6 @@ A repo for example solutions to codewars problems given to my student devs.
 
 ### To-do:
 - [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
-- [Merged Objects](https://www.codewars.com/kata/596cf5b0e1665a2d02000007/javascript)
 - [moveStrBy](https://www.codewars.com/kata/movestrby/javascript)
 - [1-800-CODE-WAR](https://www.codewars.com/kata/1-800-code-war/javascript)
 - [ES5 Generators i](https://www.codewars.com/kata/es5-generators-i/javascript)

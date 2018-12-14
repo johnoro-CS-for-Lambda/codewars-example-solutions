@@ -1,0 +1,2 @@
+# Explanation:
+We use [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) here to simply make a new object using all of the objects in our objects array as arguments (via [spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)). This makes all of our objects into one, using the most recently seen properties since the later objects in the array are applied after the prior ones.
