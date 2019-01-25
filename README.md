@@ -1,7 +1,7 @@
 # Codewars Example Solutions
 A repo for example solutions to codewars problems given to my student devs.
 
-### Problems given so far:
+### Problems completed:
 - [String repeat](https://www.codewars.com/kata/string-repeat/javascript)
 - [Switcheroo](https://www.codewars.com/kata/switcheroo/javascript)
 - [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers/javascript)
@@ -19,14 +19,16 @@ A repo for example solutions to codewars problems given to my student devs.
 - [Rot13](https://www.codewars.com/kata/rot13-1/javascript)
 - [Needles in a haystack](https://www.codewars.com/kata/needles-in-a-haystack/javascript)
 - [Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
-- [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
 - [Merged Objects](https://www.codewars.com/kata/596cf5b0e1665a2d02000007/javascript)
-- [moveStrBy](https://www.codewars.com/kata/movestrby/javascript)
-- [1-800-CODE-WAR](https://www.codewars.com/kata/1-800-code-war/javascript)
-- [ES5 Generators i](https://www.codewars.com/kata/es5-generators-i/javascript)
 
 ### To-do:
 - [Help Mrs Jefferson](https://www.codewars.com/kata/help-mrs-jefferson/javascript)
 - [moveStrBy](https://www.codewars.com/kata/movestrby/javascript)
 - [1-800-CODE-WAR](https://www.codewars.com/kata/1-800-code-war/javascript)
 - [ES5 Generators i](https://www.codewars.com/kata/es5-generators-i/javascript)
+- [Fast Fibonacci](https://www.codewars.com/kata/fast-fibonacci/javascript)
+- [Your order, please](https://www.codewars.com/kata/your-order-please/javascript)
+- [Sum of a sequence](https://www.codewars.com/kata/sum-of-a-sequence/javascript)
+- [HyperReduce](https://www.codewars.com/kata/hyperreduce/javascript)
+- [B.A.D. Hashing](https://www.codewars.com/kata/bad-hashing/javascript)
+- [Split and add an array](https://www.codewars.com/kata/split-and-then-add-both-sides-of-an-array-together/python)
