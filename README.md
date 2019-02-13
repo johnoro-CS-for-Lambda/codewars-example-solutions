@@ -1,5 +1,5 @@
 # Codewars Example Solutions
-A repo for example solutions to codewars problems given to my student devs.
+A repo for example solutions to codewars problems given to my student devs. Feel free to use them for educational purposes, and feel free to contribute!
 
 ### Problems completed:
 - [String repeat](https://www.codewars.com/kata/string-repeat/javascript)
